@@ -1,7 +1,7 @@
 This interactive Power BI dashboard provides a comprehensive overview of global video game sales, offering key insights into regional trends, top-performing games, and industry dynamics.
 
 Key Features:
-KPI Cards: Quick view of total sales across regions:
+**KPI Cards:** Quick view of total sales across regions:
 
 EU: 2.43K | JP: 1.29K | NA: 4.39K | Global: 8.92K
 
